@@ -14,3 +14,5 @@ t = Template(;
        )
 
 generate("ModernHopfieldNetworks.jl",t)
+
+
