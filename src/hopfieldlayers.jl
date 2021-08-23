@@ -1,4 +1,0 @@
-function hopfieldlayer()
-
-	nothing
-end

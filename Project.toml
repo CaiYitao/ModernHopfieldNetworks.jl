@@ -3,6 +3,9 @@ uuid = "134e0172-9571-4db0-8177-cff633ad9254"
 authors = ["Yitao Cai 蔡祎涛"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 

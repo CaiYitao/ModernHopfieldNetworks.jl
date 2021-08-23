@@ -1,5 +1,10 @@
 module ModernHopfieldNetworks
 
-# Write your package code here.
+
+include("functions.jl")
+using LinearAlgebra
+
+# 
+export 
 
 end

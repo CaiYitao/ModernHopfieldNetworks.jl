@@ -1,6 +1,13 @@
 using ModernHopfieldNetworks
 using Test
 
+
+@test hopfieldlayers([2,3],[1,1]) == 6
+
+my(2,3)
+
 @testset "ModernHopfieldNetworks.jl" begin
-    # Write your tests here.
+     # hopfieldlayer([1, 2,3],[1,2,1])
+   
+   
 end
