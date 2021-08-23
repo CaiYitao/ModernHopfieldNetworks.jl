@@ -5,7 +5,7 @@ struct ContinuousMHN{T} <: ModernHopfieldNetwork{T}
 
 end
 
-struct DistreteMHN{T} <: ModernHopfieldNetwork{T}
+struct DiscreteMHN{T} <: ModernHopfieldNetwork{T}
 
         
 end

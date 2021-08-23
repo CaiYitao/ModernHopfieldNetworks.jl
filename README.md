@@ -1,5 +1,5 @@
 # ModernHopfieldNetworks.jl
-ModernHopfieldNetworks.jl is a Julia implementation of the paper [Hopfield Network is All You Need](https://arxiv.org/abs/2008.02217) from LIT AI Lab lead by Prof. Sepp Hochreiter，the AI pioneer and LSTM creator, at Johannes Keppler University. For more details please check [this blog post](https://ml-jku.github.io/hopfield-layers/) by LIT Lab
+ModernHopfieldNetworks.jl is a Julia implementation of the paper [Hopfield Network is All You Need](https://arxiv.org/abs/2008.02217) from LIT AI Lab led by Prof. Sepp Hochreiter，the AI pioneer and LSTM creator, at Johannes Keppler University. For more details please check [this blog post](https://ml-jku.github.io/hopfield-layers/) by LIT AI Lab
 
 [![Build Status](https://travis-ci.com/YitaoCai/ModernHopfieldNetworks.jl.svg?branch=master)](https://travis-ci.com/YitaoCai/ModernHopfieldNetworks.jl)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/YitaoCai/ModernHopfieldNetworks.jl?svg=true)](https://ci.appveyor.com/project/YitaoCai/ModernHopfieldNetworks-jl)
